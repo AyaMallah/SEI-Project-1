@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/main.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <script src="scripts/app.js"></script>
+    <title>Space Invaders</title>
+  </head>
+  <body>
+    <audio id="audio"></audio>
+    <div class="container">
+      <div class="head">
+        <img class="alien-decor" src="./images/alien-decor2.png" alt="alien" />
+        <img class="logo" src="./images/logo.png" alt="logo" />
+        <img class="alien-decor" src="./images/alien-decor2.png" alt="alien" />
+      </div>
+      <div class="top-banner">
+        <div id="score-div">SCORE: <span id="score">0</span></div>
+        <div id="lives-div">LIVES: <span id="lives"></span></div>
+      </div>
+      <div class="grid-wrapper">
+        <div class="game-over-container show">
+          <span id="game-over"></span>
+        </div>
+        <div class="grid"></div>
+      </div>
+      <div class="starter">
+        <div id="start">Start/Reset 👾</div>
+      </div>
+    </div>
+  </body>
+</html>
