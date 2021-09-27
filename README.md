@@ -81,4 +81,4 @@ Using timeouts and intervals was very challenging - connecting these together so
 One bug I was unable to finish was when a player wants to move and shoot at the same time it wont work simultaneously. As this was my first project, I definitely learnt that planning and focusing on time management was very important. So I missed out on correcting this bug but still very happy with my final result.
 
 ## Future features
-In the future, I would like to create a scoreboard. I would also like to add in harder levels and more randomly generating alien invaders.
+* In the future, I would like to create a scoreboard. I would also like to add in harder levels and more randomly generating alien invaders.
