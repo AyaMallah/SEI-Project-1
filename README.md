@@ -56,10 +56,12 @@ Controls:
 
 ## Plan
 I used a Trello board with individual tickets, bugs and columns for To Do, Doing and Done. This was a great way to emulate a Jira board.
-  
+
+<div align="center">
 <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1632920123/W71dJQD29RgtKYLFteC6RQ5WxILvZUHo4h6rRJCTLhK1nGWOD5C7v7xkQOkDKevMtnMX3e73FktQvHnc1IlMjnZxcASkAVy7ldbNhyRb_ro6oMIvTYsh5ltpYk8Fsg_9-fqnmJZp_s0_evlaoz.png" width="700px"/>
 
 <img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1632920126/lo_yI21fAnGCqBhsd6UJ6zGY0nOHkvpHc3-Em31PO6pFU49FWT4MVZ94NTrc9ESg0MiTgo46RfIBV5rY9QHWEqBCXQvDuahhacKFWbp5TmRUwwDC_rKakPWr7dmVs0W02pUjDBKs_s0_frnuvj.png" width="700px" height="650px"/>
+</div>
 
 
 ## Approach
