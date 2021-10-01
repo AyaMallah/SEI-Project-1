@@ -34,7 +34,7 @@ The brief given was as follows:
 * Use semantic markup for HTML and CSS (adhere to best practices).
 
 ## Deployment
-https://ayamallahx.github.io/SEI-Project-1/
+<a href="https://space-invaders-ga.netlify.app/" target="_blank">Space Invaders</a>
 
 ## Timeframe
 7 days
