@@ -51,8 +51,8 @@ https://ayamallahx.github.io/SEI-Project-1/
 Space Invaders is a classic arcade game from the 80s. The player aims to shoot an invading alien army, before it reaches the planet’s surface whilst aiming to achieve the highest score possible before either being destroyed by the aliens or allowing them to reach the planet’s surface.
 
 Controls:
-* Player movements: ← → keys
-* Fire control: ↑ key & space bar
+* Player movements: `←` `→` keys
+* Fire control: `↑` key & `space` bar
 
 ## Plan
 I used a Trello board with individual tickets, bugs and columns for To Do, Doing and Done. This was a great way to emulate a Jira board.
