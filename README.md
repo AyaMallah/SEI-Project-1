@@ -88,15 +88,15 @@ Then I had to ensure that the array of aliens stayed on the grid and kept moving
 After this I moved onto the bomb that the aliens would drop randomly and the missile that the spaceship would shoot up to kill aliens and increase the players score. Following this would be creating a function for the collision of either the bomb attacking the spaceship or missile attacking the alien.
 
 ## Wins
-I learnt an incredible amount during this project and I’m ecstatic with what I have managed to achieve. My learning of new concepts such as class constructors, functions, scopes and timers over a few weeks were tested thoroughly during this project. 
+* I learnt an incredible amount during this project and I’m ecstatic with what I have managed to achieve. My learning of new concepts such as class constructors, functions, scopes and timers over a few weeks were tested thoroughly during this project. 
 
-I was also pleased with being able to add my own creative spin on the game with a girly purple theme. Also, it was amazing to be able to actually play a game I made myself. 
+* I was also pleased with being able to add my own creative spin on the game with a girly purple theme. Also, it was amazing to be able to actually play a game I made myself. 
 
 ## Challenges
-Using timeouts and intervals was very challenging - connecting these together so the game runs in the correct order was the hardest part but also the most rewarding.
+* Using timeouts and intervals was very challenging - connecting these together so the game runs in the correct order was the hardest part but also the most rewarding.
 
 ## Bugs
-One bug I was unable to finish was when a player wants to move and shoot at the same time it wont work simultaneously. As this was my first project, I definitely learnt that planning and focusing on time management was very important. So I missed out on correcting this bug but still very happy with my final result.
+* One bug I was unable to finish was when a player wants to move and shoot at the same time it wont work simultaneously. As this was my first project, I definitely learnt that planning and focusing on time management was very important. So I missed out on correcting this bug but still very happy with my final result.
 
 ## Future features
 * In the future, I would like to create a scoreboard. I would also like to add in harder levels and more randomly generating alien invaders.
